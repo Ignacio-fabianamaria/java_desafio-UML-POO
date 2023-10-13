@@ -13,4 +13,21 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 - **Repodutor Musicial:** tocar, pausar, selecionarMusica.
 - **Aparelho Telefônico:** ligar, atender, iniciarCorrerioVoz.
 - **Navegador na Internet:** exibirPagina, adicionarNovaAba, atualizarPaginaNavegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina.
-# java_desafio-UML-POO
+
+<hr>
+
+## Estrutura de diretórios do desafio:
+
+```bash
+src/
+|-- interfaces/
+|   |-- ReprodutorMusical.java
+|   |-- AparelhoTelefonico.java
+|   |-- NavegadorInternet.java
+|-- iphone/
+|   |-- iPhone.java
+```
+
+## Diagramação UML
+
+![diagrama-uml-iphone7](imagens/UML-IPhone.png)
